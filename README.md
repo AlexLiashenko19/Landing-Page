@@ -8,5 +8,5 @@ https://alexliashenko19.github.io/Landing-Page/
 
 https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212
 
-For installing project - "init": "mate-scripts init",
-To start the project - "start": "mate-scripts start"
+For installing project - "npm init": "mate-scripts init",
+To start the project - "npm start": "mate-scripts start"
